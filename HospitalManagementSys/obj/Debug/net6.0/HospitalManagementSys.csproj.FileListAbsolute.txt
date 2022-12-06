@@ -1,0 +1,15 @@
+C:\ProjetosCSharp\HospitalManagementSys\HospitalManagementSys\obj\Debug\net6.0\HospitalManagementSys.csproj.AssemblyReference.cache
+C:\ProjetosCSharp\HospitalManagementSys\HospitalManagementSys\obj\Debug\net6.0\HospitalManagementSys.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosCSharp\HospitalManagementSys\HospitalManagementSys\obj\Debug\net6.0\HospitalManagementSys.AssemblyInfoInputs.cache
+C:\ProjetosCSharp\HospitalManagementSys\HospitalManagementSys\obj\Debug\net6.0\HospitalManagementSys.AssemblyInfo.cs
+C:\ProjetosCSharp\HospitalManagementSys\HospitalManagementSys\obj\Debug\net6.0\HospitalManagementSys.csproj.CoreCompileInputs.cache
+C:\ProjetosCSharp\HospitalManagementSys\HospitalManagementSys\bin\Debug\net6.0\HospitalManagementSys.exe
+C:\ProjetosCSharp\HospitalManagementSys\HospitalManagementSys\bin\Debug\net6.0\HospitalManagementSys.deps.json
+C:\ProjetosCSharp\HospitalManagementSys\HospitalManagementSys\bin\Debug\net6.0\HospitalManagementSys.runtimeconfig.json
+C:\ProjetosCSharp\HospitalManagementSys\HospitalManagementSys\bin\Debug\net6.0\HospitalManagementSys.dll
+C:\ProjetosCSharp\HospitalManagementSys\HospitalManagementSys\bin\Debug\net6.0\HospitalManagementSys.pdb
+C:\ProjetosCSharp\HospitalManagementSys\HospitalManagementSys\obj\Debug\net6.0\HospitalManagementSys.dll
+C:\ProjetosCSharp\HospitalManagementSys\HospitalManagementSys\obj\Debug\net6.0\refint\HospitalManagementSys.dll
+C:\ProjetosCSharp\HospitalManagementSys\HospitalManagementSys\obj\Debug\net6.0\HospitalManagementSys.pdb
+C:\ProjetosCSharp\HospitalManagementSys\HospitalManagementSys\obj\Debug\net6.0\HospitalManagementSys.genruntimeconfig.cache
+C:\ProjetosCSharp\HospitalManagementSys\HospitalManagementSys\obj\Debug\net6.0\ref\HospitalManagementSys.dll
