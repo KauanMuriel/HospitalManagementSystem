@@ -9,6 +9,8 @@ namespace HospitalManagementSys.Entities
 {
     public class Session
     {
+        public DateTime SessionStartTime = DateTime.Now;
+        public DateTime SessionEndTime;
         public List<Doctor> OnDutyDoctors { get; } = new List<Doctor>();
 
         public void AddDoctor(Doctor doctor)
@@ -45,6 +47,13 @@ namespace HospitalManagementSys.Entities
             }
 
             return doctor;
+        }
+
+        public void OptionNotFound()
+        {
+            Console.WriteLine("The option typed doesn't exist");
+            Console.WriteLine("Press any button to continue");
+            Console.ReadKey();
         }
     }
 }
